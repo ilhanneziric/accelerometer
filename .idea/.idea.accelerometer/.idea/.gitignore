@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.accelerometer.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Asus Gamer i7\Desktop\accelerometer\.idea\.idea.accelerometer\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
